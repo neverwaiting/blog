@@ -2,5 +2,5 @@
   title = "WinterSun"
   languageName = "English"
   weight = 1
-  languagedir = "ltr"
+  languageDirection = "ltr"
   contentdir = "content/en"

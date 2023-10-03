@@ -31,9 +31,3 @@
   parent = "gallery"
   name = "Photo"
   url = "gallery/photo"
-
-[[main]]
-  identifier = "showcase"
-  name = "Project"
-  url = "showcase"
-  weight = 5
